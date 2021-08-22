@@ -9,7 +9,7 @@ const CONFIG = {
     question: 'và...chị sẽ xưng hô thế nào ',
     btnReply: 'hmm ??',
     reply: 'Anh nè, chị yêu em ?',
-    mess: 'em biết mà . Yêu em ',
+    mess: 'Anh biết mà . Yêu chị ',
     messDesc: 'call cho e nhá.',
     btnAccept: 'Oki',
     messLink: 'https://www.facebook.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
